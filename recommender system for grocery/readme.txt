@@ -1,0 +1,1 @@
+In this project, we use pattern mining and construct an item-based recommender system for giving customers our recommendations, the consequence indicates that our model behave better than random recommendations.
